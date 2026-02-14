@@ -1,10 +1,10 @@
 # Anvita Arasavilli
-
+> 3rd year Computer Science Student at Amrita University
 > Building intelligent systems at the intersection of AI, distributed infrastructure, and real-world impact.
 
 🎓 Computer Science Student  
 🔬 Research Focus: Reinforcement Learning, Health AI  
-⚙️ Exploring Distributed Systems & DevOps  
+⚙️ Exploring Networks & DevOps  
 📚 Bibliophile | Systems Thinker  
 
 ---
@@ -30,47 +30,13 @@
 
 ---
 
-## Current Work
-
-- 🧠 Multi-Agent Reinforcement Learning for eCommerce optimization  
-- 🏥 Bayesian + LightGBM ensemble for maternal health risk prediction  
-- ☁️ LLM-based insurance document decision system  
-- 🧩 Exploring cloud-native deployments & DevOps workflows  
-
----
-
-## Selected Projects
-
-- 🔬 **Health Risk Prediction System**  
-  Bayesian Ordered Logistic Regression + LightGBM ensemble (86%+ accuracy)
-
-- 🛒 **MARL Recommendation Engine**  
-  Adaptive policy optimization for dynamic eCommerce environments
-
-- 📄 **LLM Document Decision Engine**  
-  Automated claim reasoning using structured + unstructured inputs
-
-- 🧱 **Full-Stack Resume Builder**  
-  TypeScript + Modular React Architecture + Dynamic Form Management
-
----
-
 ## GitHub Insights
 
-![Anvita's GitHub stats](https://github-readme-stats.vercel.app/api?username=rusalye&show_icons=true&theme=transparent&hide_border=true)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rusalye&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rusalye&layout=compact&theme=transparent&hide_border=true)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rusalye&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=rusalye&theme=transparent&hide_border=true)
-
----
-
-## Philosophy
-
-> Systems should adapt.  
-> Models should generalize.  
-> Infrastructure should scale.  
-> Engineering should matter.
+![GitHub Streak](https://streak-stats.demolab.com?user=rusalye&theme=tokyonight)
 
 ---
 
