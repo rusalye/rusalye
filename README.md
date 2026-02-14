@@ -32,9 +32,9 @@
 
 ## GitHub Insights
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rusalye&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rusalye&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rusalye&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rusalye&layout=compact&theme=tokyonight&cache_seconds=86400)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=rusalye&theme=tokyonight)
 
