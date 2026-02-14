@@ -57,11 +57,11 @@
 
 ## GitHub Insights
 
-![Anvita's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true)
+![Anvita's GitHub stats](https://github-readme-stats.vercel.app/api?username=rusalye&show_icons=true&theme=transparent&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rusalye&layout=compact&theme=transparent&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=rusalye&theme=transparent&hide_border=true)
 
 ---
 
@@ -76,11 +76,8 @@
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINK)
-[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/anvita-arasavilli-8351382b9)
+[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail)](mailto:anvita192005@gmail.com)
 
 ---
 
-<!--
-Minimal. Focused. Technical.
--->
